@@ -72,6 +72,12 @@ body {
   color: azure;
 }
 
+.aboutblurb {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+  color: azure;
+}
+
 .punch {
   font-family: 'Permanent Marker', cursive;
   color: red;
