@@ -10,7 +10,7 @@
   font-family: 'Ubuntu', sans-serif;
 }
 
-html {
+body {
   background: url(img/ink-in-water.jpg) no-repeat center center fixed;
   background-size: cover;
 }
@@ -32,6 +32,37 @@ html {
   font-size: x-large;
 }
 
+.contactheader {
+  text-align: center;
+  margin: 200px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
+}
+
+.workheader {
+  text-align: center;
+  margin: 200px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
+}
+
+
+.aboutheader {
+  text-align: center;
+  margin: 200px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: large;
+}
 .blurb {
   text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.punch {
+  font-family: 'Permanent Marker', cursive;
+  color: white;
+}
+
+.interests {
+  font-family: 'Permanent Marker', cursive;
 }
