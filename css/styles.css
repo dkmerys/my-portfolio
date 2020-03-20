@@ -11,7 +11,8 @@
 }
 
 html {
-  background: url(images/background-image.png) no-repeat center center fixed; 
+  background: url(img/ink-in-water.jpg) no-repeat center center fixed;
+  background-size: cover;
 }
 
 .thumbnail{
@@ -27,6 +28,8 @@ html {
 .homeheader {
   text-align: center;
   margin: 200px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: x-large;
 }
 
 .blurb {
