@@ -14,7 +14,21 @@ html {
   background: url(images/background-image.png) no-repeat center center fixed; 
 }
 
-.col-md-1 img {
-  max-width: 300px;
-  max-height: 300px;
+.thumbnail{
+  max-width: 500px;
+  max-height: 500px;
+  margin: 40px 40px 40px 40px;
+}
+
+.workheader {
+  text-align: center;
+}
+
+.homeheader {
+  text-align: center;
+  margin: 200px;
+}
+
+.blurb {
+  text-align: center;
 }
