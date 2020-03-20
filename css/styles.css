@@ -14,7 +14,7 @@ html {
   background: url(images/background-image.png) no-repeat center center fixed; 
 }
 
-img.col-md-1 {
+.col-md-1 img {
   max-width: 300px;
   max-height: 300px;
 }
