@@ -10,6 +10,9 @@
   margin-bottom: 50px;
   width: 50%;
 }
+
+#navbar {
+  color: azure;
 }
 
 .col-md-1 {
@@ -17,10 +20,6 @@
 }
 
 body {
-  background: url(https://i.imgur.com/CI4AWsN.jpg) no-repeat center center fixed;
-  background-size: cover;
-}
-.workbody {
   background: url(https://i.imgur.com/CI4AWsN.jpg) no-repeat center center fixed;
   background-size: cover;
 }
@@ -37,43 +36,48 @@ body {
 
 .homeheader {
   text-align: center;
-  margin: 200px;
+  margin: 100px;
   font-family: 'Permanent Marker', cursive;
   font-size: x-large;
+  color:azure;
 }
 
 .contactheader {
   text-align: center;
-  margin: 200px;
+  margin: 100px;
   font-family: 'Permanent Marker', cursive;
   font-size: x-large;
+  color: azure;
 }
 
 .workheader {
   text-align: center;
-  margin: 200px;
+  margin: 100px;
   font-family: 'Permanent Marker', cursive;
   font-size: x-large;
+  color: azure;
 }
-
 
 .aboutheader {
   text-align: center;
-  margin: 200px;
+  margin: 100px;
   margin-bottom: 75px;
   font-family: 'Permanent Marker', cursive;
-  font-size: large;
+  font-size: x-large;
+  color: azure;
 }
 .blurb {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
+  color: azure;
 }
 
 .punch {
   font-family: 'Permanent Marker', cursive;
-  color: white;
+  color: red;
 }
 
 .interests {
   font-family: 'Permanent Marker', cursive;
+  color: azure;
 }
