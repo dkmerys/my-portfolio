@@ -2,7 +2,7 @@
   rotate: right;
   max-width: 300px;
   max-height: 450px;
-  border-radius: 75%;
+  border-radius: 8px;
   transform: rotate(90deg);
   display: block;
   margin-left: auto;
