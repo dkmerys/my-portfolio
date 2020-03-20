@@ -2,8 +2,14 @@
   rotate: right;
   max-width: 300px;
   max-height: 450px;
-  border-radius: 50%;
+  border-radius: 75%;
   transform: rotate(90deg);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  width: 50%;
+}
 }
 
 .col-md-1 {
@@ -11,7 +17,11 @@
 }
 
 body {
-  background: url(img/ink-in-water.jpg) no-repeat center center fixed;
+  background: url(https://i.imgur.com/A26yVu5.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+.workbody {
+  background: url(https://i.imgur.com/pTowOfR.jpg) no-repeat center center fixed;
   background-size: cover;
 }
 
@@ -50,6 +60,7 @@ body {
 .aboutheader {
   text-align: center;
   margin: 200px;
+  margin-bottom: 75px;
   font-family: 'Permanent Marker', cursive;
   font-size: large;
 }
