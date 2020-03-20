@@ -37,7 +37,7 @@ body {
 
 .homeheader {
   text-align: center;
-  margin: 200px;
+  margin: 150px;
   font-family: 'Permanent Marker', cursive;
   font-size: x-large;
 }
@@ -67,11 +67,16 @@ body {
 .blurb {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
+  color: white;
+}
+.aboutblurb {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
 }
 
 .punch {
   font-family: 'Permanent Marker', cursive;
-  color: white;
+  color: black;
 }
 
 .interests {
